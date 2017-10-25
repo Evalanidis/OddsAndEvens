@@ -1,7 +1,7 @@
 /*
 * @author Valanidis Efstathios
 * @literal evalanidis@gmail.com
-* @since 24/10/2017
+* @since 25/10/2017
 * */
 
 import java.util.Scanner;
